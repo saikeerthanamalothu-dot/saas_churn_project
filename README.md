@@ -257,12 +257,6 @@ The goal was not just to build a model but to deliver a complete business soluti
 
 ---
 
-## Updated Resume Bullet
-
-*"Built end-to-end SaaS customer churn prediction solution using Python and scikit-learn — achieving AUC-ROC of 0.821. Quantified $2.39M annual revenue loss, identified $1.87M at risk from 1,560 high-risk customers, and delivered 8 prioritised retention interventions with $1,045,526 expected annual uplift. Built 4-page interactive Power BI dashboard for ongoing churn monitoring."*
-
----
-
 ## About
 
 This project was built as part of a data analytics portfolio to demonstrate end-to-end capability across machine learning, business impact analysis, BI dashboard development, and executive communication. It is the second project in a portfolio that also includes a Procurement Spend Analytics dashboard — demonstrating versatility across industries and analytical techniques.
