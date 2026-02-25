@@ -229,7 +229,7 @@ cd saas-churn-prediction
 
 2. Install dependencies
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn openpyxl jupyter
+pip install -r requirements.txt
 ```
 
 3. Run notebooks in order
