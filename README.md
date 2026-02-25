@@ -261,7 +261,7 @@ The goal was not just to build a model but to deliver a complete business soluti
 
 This project was built as part of a data analytics portfolio to demonstrate end-to-end capability across machine learning, business impact analysis, BI dashboard development, and executive communication. It is the second project in a portfolio that also includes a Procurement Spend Analytics dashboard — demonstrating versatility across industries and analytical techniques.
 
-**Project 1:** [Procurement Spend Analytics & Savings Opportunity Dashboard](https://github.com/saikeerthanamalothu-dot/procurement-spend-analytics)
+**Project 1:** [Spend Analysis & Cost Optimization Dashboard](https://github.com/saikeerthanamalothu-dot/Spend-Analysis-Cost-Optimization-Dashboard)
 
 ---
 
