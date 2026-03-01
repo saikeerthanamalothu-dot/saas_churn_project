@@ -1,7 +1,7 @@
 # SaaS Customer Churn Prediction & Retention Strategy
 
 **Author:** Sai Keerthana Malothu  
-**Tools:** Python (pandas, scikit-learn, matplotlib, seaborn) | Logistic Regression | Random Forest | SQL | Power BI | DAX | Jupyter Notebook  
+**Tools:** Python (pandas, scikit-learn, matplotlib, seaborn) | Logistic Regression | Random Forest | PostgreSQL | Power BI | DAX | Jupyter Notebook  
 **Domain:** SaaS / Subscription Business | Customer Analytics | Predictive Modelling | Business Intelligence  
 **Dataset:** Synthetic dataset designed to simulate a real-world SaaS company with 5,000 customers across 4 subscription plans
 
